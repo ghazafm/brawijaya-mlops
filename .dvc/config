@@ -1,0 +1,4 @@
+[core]
+    remote = gs
+['remote "gs"']
+    url = gs://college_brawijaya_bucket_college
